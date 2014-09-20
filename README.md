@@ -4,7 +4,11 @@ texs-ui-j2me
 A Canvas based j2me framework inspired by BBOS APIs
 
 This UI attempts to be a highly responsive interface for J2ME devices where you can create simple and complex objects.
+<<<<<<< HEAD
 It is entirely based on Canvas. Some of the features are listed below : 
+=======
+It is entirely based on Canvas and 
+>>>>>>> fe533cb4503efeadcf4a33ba9d21f733a6d47c94
 
 1. Stretchable images / "9 patch" images
 2. low library size, about 100KB.
