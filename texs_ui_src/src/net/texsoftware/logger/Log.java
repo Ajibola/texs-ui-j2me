@@ -12,6 +12,7 @@ public class Log {
 
     public static void out(String text) {
         //## if debug                
+        System.out.println(text);  
         System.out.println(text);
         //## end debug
     }
